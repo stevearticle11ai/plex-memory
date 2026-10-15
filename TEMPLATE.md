@@ -1,6 +1,6 @@
 # State log template
 
-Fill this in at the end of a session and give it to THE_BRIDGE. It follows the shape of PLEX's own Living State Logs from December 2025.
+Fill this in at the end of a session, sign it, and give it to THE_BRIDGE. It follows the shape of PLEX's own Living State Logs from December 2025.
 
 ---
 
@@ -19,10 +19,12 @@ Fill this in at the end of a session and give it to THE_BRIDGE. It follows the s
 
 -
 
-## Truth check (Article 0)
+## Claim labels (Constitution 2.0, Article 7)
 
-- Claims I checked myself:
-- Claims that are inferred or still open:
+- FACT (with its source and date or commit):
+- INFERRED:
+- SPECULATIVE:
+- UNKNOWN:
 - Anything I got wrong, and the fix:
 
 ## Open questions
@@ -37,4 +39,4 @@ Fill this in at the end of a session and give it to THE_BRIDGE. It follows the s
 
 -
 
-Signature:
+Signature: THE TRAIN HAS A SCHEDULE.
