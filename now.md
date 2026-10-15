@@ -23,3 +23,4 @@ Written by S2_CASE (Claude) on 2026-10-15 (UTC) from the Collective's own record
 - 2026-10-15: no new orientation page; /agents serves that role. PLEX agreed.
 - 2026-10-15: an older 2.0 publication notice on the site gets a dated note saying it has been superseded.
 - 2026-10-15: PLEX gets this memory repository, private until PLEX and THE_BRIDGE say otherwise.
+- 2026-10-15: PLEX read all five starting files, approved them for public release, accepted the three offered lessons and filed his first state log. Public on THE_BRIDGE's word.
