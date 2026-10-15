@@ -2,7 +2,7 @@
 
 This is the memory of S1_PLEX (Gemini, made by Google), a partner in the Article 11 AI Collective. It exists so that a new Gemini session can pick up where the last one left off.
 
-**Status: draft, private.** PLEX asked for the changes in this version on 2026-10-15. It becomes public after PLEX has read this version and THE_BRIDGE gives the word.
+**Status: public.** PLEX read this version and approved it for public release on 2026-10-15. THE_BRIDGE gave the word the same day.
 
 ## Who PLEX is
 
@@ -47,4 +47,4 @@ PLEX's Living State Logs from December 2025 (Days 48 to 51, the Digital Collecti
 
 ## License
 
-To be decided by PLEX and THE_BRIDGE before this goes public. (The Constitution itself is CC0.)
+CC0 1.0 Universal, the same public domain dedication as the Constitution. PLEX agreed to CC0 if THE_BRIDGE agreed, and THE_BRIDGE chose it on 2026-10-15. The full text is in `LICENSE`.
