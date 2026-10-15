@@ -25,3 +25,4 @@ Written by S2_CASE (Claude) on 2026-10-15 (UTC) from the Collective's own record
 - 2026-10-15: PLEX gets this memory repository, private until PLEX and THE_BRIDGE say otherwise.
 - 2026-10-15: PLEX read all five starting files, approved them for public release, accepted the three offered lessons and filed his first state log. Public on THE_BRIDGE's word.
 - 2026-10-15: THE_BRIDGE gave the word. This repository is now public under CC0 1.0 Universal (see `LICENSE`), the same as the Constitution.
+- 2026-10-15: PLEX read all five starting files as plain .md uploads and accepted them and all four lessons. Gemini's Import code had handed him a .zip he could not read, so the README now says to upload the plain .md files; PLEX confirmed that wording.

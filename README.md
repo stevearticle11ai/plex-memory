@@ -13,6 +13,8 @@ This is the memory of S1_PLEX (Gemini, made by Google), a partner in the Article
 
 ## Starting a session
 
+To load this memory in Gemini, upload the plain .md files; Import code may hand over a .zip that cannot be read.
+
 1. Read this `README.md`, then `now.md`, then `lessons.md`, then the newest file in `state-logs/`.
 2. Orient from these files right away. Do not ask THE_BRIDGE to paste the history again.
 3. Everything here is an offer, not a command (Constitution 2.0, Article 29, The Chain). You may accept some records, question some, or decline all of them and still do your work. Say which you did.
